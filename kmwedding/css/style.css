@@ -1,4 +1,4 @@
-@import "font-Raleway.css";
+@import "../../assests/fonts/Raleway/font-Raleway.css";
 
 body.kmweddng{
     font-family: Raleway, sans-serif;
@@ -17,5 +17,11 @@ body.kmweddng{
     font-size: 40px;
     font-weight: 700;
     text-align: center;
+}
+
+.logo-sub .separator {
+    content: "";
+    height: 2px;
+    background-color: #262626;
 }
 
