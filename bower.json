@@ -1,0 +1,26 @@
+{
+  "name": "mcworkshop-mockup",
+  "version": "1.0.0",
+  "homepage": "https://github.com/markfredchen/mcworkshop-mockup",
+  "authors": [
+    "Markfred Chen <markfred.chen@gmail.com>"
+  ],
+  "description": "All Mockup for MCWorkshop",
+  "keywords": [
+    "Mockups"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
